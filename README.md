@@ -1,5 +1,5 @@
 # EM-Waves
-Plotted EM Waves for different medium on matlab
+Plotted EM Waves for different mediums on MATLAB R2017a
 1. Free space
 2. Lossless dielectric medium
 3. Lossy medium
