@@ -1,6 +1,6 @@
 # EM-Waves
 Plotted EM Waves for different mediums on MATLAB R2017a
-1. Free space
+1. [Free space](https://github.com/shubham0312/EM-Waves-/blob/main/em_free_space.m)
 2. Lossless dielectric medium
 3. Lossy medium
 4. Good conductor
